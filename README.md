@@ -1,12 +1,11 @@
 ![Ciao sono samy (1)](https://github.com/SamantaMancini/SamantaMancini/assets/118011618/c351161d-c193-4544-9d93-a09bee6b73f8)
 <h1 align="center">Hi 👋, I'm Samy</h1>
 <h3 align="center">A girl with a passion for the creativity and the technology</h3>
-<p> My creativity allows me to find innovative solutions to problems and create something from scratch. I am proactive in taking initiative and anticipating project needs. My attention to detail and precision ensure that my work is always of the highest quality. I am able to work independently, but I also appreciate teamwork and collaboration with colleagues and stakeholders. I am an attentive listener, able to fully understand the needs of customers and team members. 
+<p> My creativity allows me to find innovative solutions to problems and create something from scratch. 
  
-After my experience in Game Design, I discovered the role of UI/UX Design, which fascinated me. I studied through the Front End master at start2impact University and acquired coding skills such as Javascript, CSS, HTML, and React.js. 
- 
-I'm always looking for new challenges as a front-end developer, eager to create innovative user experiences. 
- 
+When I discovered the role of Front End developer, which fascinated me. I studied through the Front End master at start2impact University and acquired coding skills such as Javascript, CSS, HTML, and React.js. 
+
+I'm learning other programming languages like Typescript and Python.
 In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
 
 👨‍💻 All of my projects are available at [portfolio](https://samantamanciniportfolio.netlify.app/)
