@@ -3,7 +3,7 @@
 <h3 align="center">A girl with a passion for the creativity and the technology</h3>
 <p> My creativity allows me to find innovative solutions to problems and create something from scratch. 
  
-When I discovered the role of Front End developer, which fascinated me. I studied through the Front End master at start2impact University and acquired coding skills such as Javascript, CSS, HTML, and React.js. 
+When I discovered the role of Front End developer, it was love at first sight. I studied through the Front End master at start2impact University and acquired coding skills such as Javascript, CSS, HTML, and React.js. 
 
 I'm learning other programming languages like Typescript and Python.
 In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
