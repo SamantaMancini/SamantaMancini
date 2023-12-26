@@ -50,6 +50,8 @@ When I discovered the role of Front End developer, it was love at first sight. I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  /></a>
 </div>
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/SamantaMancini/SamantaMancini/output/snake.svg" alt="Snake animation" />
 
 ###
