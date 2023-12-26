@@ -17,7 +17,7 @@
  
 When I discovered the role of Front End developer, it was love at first sight. I studied through the Front End master at start2impact University and acquired coding skills such as Javascript/Typescript, CSS, HTML, React.js and Angular. 
 
-🔭 I’m working as Front-End Developer<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
+🔭 I’m working as Front-End Developer<br>- 📚 I'm currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br>- ⚡ In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
 
 👨‍💻 All of my projects are available at [portfolio](https://samantamanciniportfolio.netlify.app/)
 
@@ -52,9 +52,6 @@ When I discovered the role of Front End developer, it was love at first sight. I
 <h3 align="left">Tools:</h3>
 <p><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</p>
-<h3 align="left">I'd like to learn:</h3>
-<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
 <div align="left">
