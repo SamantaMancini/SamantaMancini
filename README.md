@@ -5,7 +5,7 @@
  
 When I discovered the role of Front End developer, it was love at first sight. I studied through the Front End master at start2impact University and acquired coding skills such as Javascript/Typescript, CSS, HTML, React.js and Angular. 
 
-I'm learning other programming languages like Typescript and Python.
+I'm learning other programming languages like Python.
 In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
 
 👨‍💻 All of my projects are available at [portfolio](https://samantamanciniportfolio.netlify.app/)
@@ -27,8 +27,7 @@ In my free time, I read, write on my blog and personal novel, play video games, 
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 <h3 align="left">I'd like to learn:</h3>
-<p><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samantamancini&show_icons=true&locale=en&layout=compact" alt="samantamancini" /></p>
