@@ -13,9 +13,12 @@ In my free time, I read, write on my blog and personal novel, play video games, 
 📫 How to reach me **s.mancini93@hotmail.it**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/samantamancini/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samantamancini/" height="30" width="40" /></a>
-</p>
+<div align="left">
+ <a href="https://www.linkedin.com/in/samantamancini/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+ <a href="https://www.discord.com/misakimtg">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+</div>
 
 <h3 align="left">Languages:</h3>
 <div align="left">
