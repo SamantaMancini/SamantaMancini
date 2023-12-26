@@ -1,12 +1,22 @@
 ![Ciao sono samy (1)](https://github.com/SamantaMancini/SamantaMancini/assets/118011618/c351161d-c193-4544-9d93-a09bee6b73f8)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
 <h1 align="center">Hi 👋, I'm Samy</h1>
 <h3 align="center">A girl with a passion for the creativity and the technology</h3>
 <p> My creativity allows me to find innovative solutions to problems and create something from scratch. 
  
 When I discovered the role of Front End developer, it was love at first sight. I studied through the Front End master at start2impact University and acquired coding skills such as Javascript/Typescript, CSS, HTML, React.js and Angular. 
 
-I'm learning other programming languages like Python.
-In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
+🔭 I’m working as Front-End Developer<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
 
 👨‍💻 All of my projects are available at [portfolio](https://samantamanciniportfolio.netlify.app/)
 
