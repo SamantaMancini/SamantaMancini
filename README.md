@@ -49,6 +49,9 @@ When I discovered the role of Front End developer, it was love at first sight. I
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  /></a>
 </div>
+<img src="https://raw.githubusercontent.com/SamantaMancini/SamantaMancini/output/snake.svg" alt="Snake animation" />
+
+###
 
 <h3 align="left">Tools:</h3>
 <p><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
