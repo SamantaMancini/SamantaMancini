@@ -27,8 +27,6 @@ When I discovered the role of Front End developer, it was love at first sight. I
 
 👨‍💻 All of my projects are available at [portfolio](https://samantamanciniportfolio.netlify.app/)
 
-📫 How to reach me **s.mancini93@hotmail.it**
-
 <h3 align="left">Languages:</h3>
 <div align="left">
   <a href="https://javascript.info/" target="_blank">
