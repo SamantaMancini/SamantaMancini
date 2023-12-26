@@ -35,10 +35,10 @@ In my free time, I read, write on my blog and personal novel, play video games, 
   <a href="https://getbootstrap.com/" target="_blank">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /></a>
-  <a href="">
+  <a href="https://www.w3schools.com/Css/" target="_blank">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></a>
-  <a href="">
+  <a href="https://sass-lang.com/" target="_blank">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  /></a>
 </div>
