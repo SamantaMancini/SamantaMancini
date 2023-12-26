@@ -1,6 +1,7 @@
 ![Ciao sono samy (1)](https://github.com/SamantaMancini/SamantaMancini/assets/118011618/c351161d-c193-4544-9d93-a09bee6b73f8)
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/samantamancini/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 </div>
 
 ###
@@ -21,14 +22,6 @@ When I discovered the role of Front End developer, it was love at first sight. I
 👨‍💻 All of my projects are available at [portfolio](https://samantamanciniportfolio.netlify.app/)
 
 📫 How to reach me **s.mancini93@hotmail.it**
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
- <a href="https://www.linkedin.com/in/samantamancini/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
- <a href="https://www.discord.com/users/Misaki#9328">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-</div>
 
 <h3 align="left">Languages:</h3>
 <div align="left">
