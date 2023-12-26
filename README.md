@@ -55,6 +55,6 @@ In my free time, I read, write on my blog and personal novel, play video games, 
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samantamancini&show_icons=true&locale=en&layout=compact" alt="samantamancini" />
-<img src="https://raw.githubusercontent.com/SamantaMancini/SamantaMancini/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SamantaMancini/output/snake.svg" alt="Snake animation" />
 
 
