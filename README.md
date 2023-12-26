@@ -19,7 +19,7 @@ In my free time, I read, write on my blog and personal novel, play video games, 
 
 <h3 align="left">Languages:</h3>
 <div align="left">
-  <a href="">
+  <a href="https://javascript.info/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> 
   </a>
   <a href="">
