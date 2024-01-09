@@ -17,7 +17,7 @@
 <h3 align="center">A girl with a passion for the creativity and the technology</h3>
 <p> My creativity allows me to find innovative solutions to problems and create something from scratch. 
  
-When I discovered the role of Front End developer, it was love at first sight. I studied through the Front End master at start2impact University and acquired coding skills such as Javascript/Typescript, CSS, HTML, React.js and Angular. 
+When I discovered the role of Front End developer, it was love at first sight. I studied through the Front End master at start2impact University and acquired coding skills such as Javascript, CSS, HTML, React.js. 
 
 🔭 I’m working as Front-End Developer<br> 📚 I'm currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  /></a> <br> ⚡ In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
