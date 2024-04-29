@@ -14,7 +14,8 @@ Although I know that this path has no end, I am motivated to continue constantly
 
 👨‍💻 All of my projects: <br/>
 <strong>JavaScript: <br/></strong>
-[Counter](https://github.com/SamantaMancini/Counter)  <br/> For this project, I used vanilla JavaScript. It's a simple counter with three buttons, each with a constant variable document.createElement('button'). I added id elements to these three buttons using setAttribute('id', 'buttons') and linked them to the div of the HTML5 page with the appendChild() function. For the text, I used the button variable name + innerText. For the click event, I used the addEventListener('click', function(event) {}) inside the function there is a constant that takes event.target.id and a condition that if the button is equal to its id and is not disabled, the value increases and the button sound is heard with audio.play(), and if it is reset, the count variable becomes zero and all buttons are disabled. And I called the timed function called setInterval(changeColor, 500) to do the flash effect that changes color to red and returns to normal and the stopTimeout() function that stops after 5 seconds. In the second JS sheet, I made a JS array with five images from the Hobbit movie and an infinite loop. As a bonus, I preferred to work on the responsive part with the function called Mediaquery and I used window.matchMedia("(max-width: 1280px)"). <br/>
+[Counter](https://github.com/SamantaMancini/Counter)  <br/> It's a simple counter in vanilla JavaScript.
+
 
 
 
@@ -22,6 +23,12 @@ Although I know that this path has no end, I am motivated to continue constantly
 
 <h3 align="left">Languages:</h3>
 <div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
