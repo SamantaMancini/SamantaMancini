@@ -12,7 +12,8 @@ Although I know that this path has no end, I am motivated to continue constantly
 🔭 I’m working as Front-End Developer<br> 📚 I'm currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  /></a> <br> ⚡ In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
 
-👨‍💻 All of my projects are available at [portfolio](https://samantamanciniportfolio.netlify.app/)
+👨‍💻 All of my projects:
+
 
 <h3 align="left">Languages:</h3>
 <div align="left">
