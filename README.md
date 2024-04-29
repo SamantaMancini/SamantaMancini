@@ -13,7 +13,7 @@ Although I know that this path has no end, I am motivated to continue constantly
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  /></a> <br> ⚡ In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
 
 👨‍💻 All of my projects: <br/>
-<strong>JavaScript: <br/></strong>
+
 [Counter](https://github.com/SamantaMancini/Counter)  <br/> It's a simple counter in vanilla JavaScript.
 
 
