@@ -18,6 +18,8 @@ Although I know that this path has no end, I am motivated to continue constantly
 [Book research](https://github.com/SamantaMancini/S2I-JS-Advanced)<br/> For this project, I used vanilla JavaScript and Node JS. It's a web app for searching for a category of books. <br/>
 
 <strong>React: <br/></strong>
+[Borcelle Yoga Studio](https://github.com/SamantaMancini/S2-Impact-React-Project) <br/> A meditation web app with a timer and sounds. <br/>
+[To-do-list]
 
 
 
