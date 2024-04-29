@@ -3,9 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Samy</h1>
 <h3 align="center">A girl with a passion for the creativity and the technology</h3>
-<p> My creativity allows me to find innovative solutions to problems and create something from scratch. 
- 
-When I discovered the role of Front End developer, it was love at first sight. I studied through the Front End master at start2impact University and acquired coding skills such as Javascript, CSS, HTML, React.js. 
+<p> I have always had a strong passion for programming and everything related to it, which is why I have decided to deepen my knowledge more and more. Despite being a game developer with a couple of years of experience with Unreal Engine, I now wanted to take an important new step for my profession, which is to study Godot Engine.
+
+I mainly use C++ and Blueprint, Python and Godot script as programming languages, however, following other branches of the sector, I have chosen to focus my study on front-end knowledge with HTML5, CSS3, JavaScript and React.js framework, while for the back-end Node.js with notions of MongoDB.
+
+Although I know that this path has no end, I am motivated to continue constantly every day.
 
 🔭 I’m working as Front-End Developer<br> 📚 I'm currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  /></a> <br> ⚡ In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
