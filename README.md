@@ -1,11 +1,6 @@
 ![Ciao sono samy (1)](https://github.com/SamantaMancini/SamantaMancini/assets/118011618/c351161d-c193-4544-9d93-a09bee6b73f8)
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamantaMancini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamantaMancini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 <h1 align="center">Hi 👋, I'm Samy</h1>
 <h3 align="center">A girl with a passion for the creativity and the technology</h3>
 <p> My creativity allows me to find innovative solutions to problems and create something from scratch. 
