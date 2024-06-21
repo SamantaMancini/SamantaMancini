@@ -14,7 +14,7 @@ Although I know that this path has no end, I am motivated to continue constantly
 
 👨‍💻 All of my projects: <br/>
 
-[Counter](https://github.com/SamantaMancini/Counter)  <br/> It's a simple counter in vanilla JavaScript.
+
 
 
 
