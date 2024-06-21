@@ -5,7 +5,7 @@
 <h3 align="center">A girl with a passion for the creativity and the technology</h3>
 <p> I have always had a strong passion for programming and everything related to it, which is why I have decided to deepen my knowledge more and more. Despite being a game developer with a couple of years of experience with Unreal Engine, I now wanted to take an important new step for my profession, which is to study Godot Engine.
 
-I mainly use C++ and Blueprint, Python and Godot script as programming languages, however, following other branches of the sector, I have chosen to focus my study on front-end knowledge with HTML5, CSS3, JavaScript and React.js framework, while for the back-end Node.js with notions of MongoDB.
+I mainly use C++ and Blueprint, Python and Godot script as programming languages, however, following other branches of the sector, I have chosen to focus my study on front-end knowledge with HTML5, CSS3, JavaScript, Typescript and React.js, while for the back-end Node.js with notions of MongoDB and PostgreSQL.
 
 Although I know that this path has no end, I am motivated to continue constantly every day.
 
