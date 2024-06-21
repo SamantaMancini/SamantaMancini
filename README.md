@@ -9,10 +9,10 @@ I mainly use C++ and Blueprint, Python and Godot script as programming languages
 
 Although I know that this path has no end, I am motivated to continue constantly every day.
 
-🔭 I’m working as Front-End Developer<br> 📚 I'm currently learning <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+🔭 I’m working as Front-End Developer<br>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  /></a> <br> ⚡ In my free time, I read, write on my blog and personal novel, play video games, and have a deep passion for Japanese culture. </p>
 
-👨‍💻 All of my projects: <br/>
+
 
 
 
